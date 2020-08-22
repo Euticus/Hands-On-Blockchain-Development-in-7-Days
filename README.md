@@ -116,3 +116,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
+// DEVELEOPER NOTES 08222020
+Just starting this project not sure if everything works properly but we'll see. I think I can commit this 
